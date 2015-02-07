@@ -1,6 +1,8 @@
 // Copyright [c] 2002 Artemis International Solutions Corporation
 package artemispm.jvdo2;
 
+// from machine - second changes
+
 import java.io.File;
 import java.io.FileOutputStream;
 import java.io.IOException;
